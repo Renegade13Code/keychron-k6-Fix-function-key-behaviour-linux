@@ -1,0 +1,1 @@
+This is a fix for the keychron k6 function keys. The problem that occurs is that both the `Fn1` and `Fn2` keys activate either the media keys or the functionkeys (f1 - f12). This repo provides a solution to this.
