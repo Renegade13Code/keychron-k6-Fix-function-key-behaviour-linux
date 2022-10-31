@@ -20,6 +20,10 @@ For fedora:
         sudo dracut --regenerate-all --force
 
 ```
+For arch based:
+```
+        sudo mkinitcpio -P
+```
 4) Reboot
 
 
